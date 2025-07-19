@@ -18,3 +18,9 @@ Criei esse repositório com o intuito de compartilhar minha experiência resolve
 - **Objetivo:** Criar um sistema para gerenciar Ninjas e Uchihas, aplicando o conceito de Herança da POO.
 - **Principais aprendizados:** Resolução de NullPointerException em arrays de objetos e depuração de lógica de contadores.
 - **Veja a discussão completa e o processo de desenvolvimento na 🔗[PR #1](https://github.com/jotathedev/Java10x/pull/1).**
+
+#### ✅ Desafio 4: Gerenciamento de diferentes Ninjas usando Polimorfismo e Interfaces.
+- **Objetivo:** Criar um sistema para gerenciar Ninjas básicos e avançados, aplicando conceitos para flexibilização de código, como: Polimorfismo e Interfaces. Além da aplicação de conceitos antes não estudados.
+- **Principais aprendizados:** Enums e maleabilidade de código.
+- **Veja a discussão completa e o processo de desenvolvimento na 🔗[PR #3](https://github.com/jotathedev/Java10x/pull/3).**
+  
