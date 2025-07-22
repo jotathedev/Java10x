@@ -24,3 +24,7 @@ Criei esse repositório com o intuito de compartilhar minha experiência resolve
 - **Principais aprendizados:** Enums e maleabilidade de código.
 - **Veja a discussão completa e o processo de desenvolvimento na 🔗[PR #3](https://github.com/jotathedev/Java10x/pull/3).**
   
+#### ✅ Desafio 5: Gerenciamento de diferentes tipos de contas bancárias usando Abstração como principal pilar.
+- **Objetivo:** Criar um sistema para gerenciar um banco(que nesse caso fiz de One Piece) com diferentes tipos de contas bancárias, aplicando conceitos para flexibilização de código, como: Classe abstrata e Interface. Ademais, realizei um Overload de método, uma técnica que é muito importante no ambiente profissional.
+- **Principais aprendizados:** Overload de métodos e aplicação de diferentes comportamentos especifícos.
+- **Veja a discussão completa e o processo de desenvolvimento na 🔗[PR #4](https://github.com/jotathedev/Java10x/pull/4).**
