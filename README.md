@@ -32,4 +32,4 @@ Criei esse repositório com o intuito de compartilhar minha experiência resolve
 #### ✅ Desafio 6: Gerenciamento de uma lista de ninjas usando a estrutura de dados LinkedList
 - **Objetivo:** Criar um sistema para gerenciar uma lista de ninjas usando LinkedList e seus métodos, além de ordená-las e criar um método para buscar um ninja.
 - **Principais aprendizados:** Ordenação de Collections, remoção com Iterator e métodos de referência.
-- **Veja a discussão completa e o processo de desenvolvimento na 🔗[PR #4](https://github.com/jotathedev/Java10x/pull/5).**
+- **Veja a discussão completa e o processo de desenvolvimento na 🔗[PR #5](https://github.com/jotathedev/Java10x/pull/5).**
