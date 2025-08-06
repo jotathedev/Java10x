@@ -28,3 +28,8 @@ Criei esse repositório com o intuito de compartilhar minha experiência resolve
 - **Objetivo:** Criar um sistema para gerenciar um banco(que nesse caso fiz de One Piece) com diferentes tipos de contas bancárias, aplicando conceitos para flexibilização de código, como: Classe abstrata e Interface. Ademais, realizei um Overload de método, uma técnica que é muito importante no ambiente profissional.
 - **Principais aprendizados:** Overload de métodos e aplicação de diferentes comportamentos especifícos.
 - **Veja a discussão completa e o processo de desenvolvimento na 🔗[PR #4](https://github.com/jotathedev/Java10x/pull/4).**
+
+#### ✅ Desafio 6: Gerenciamento de uma lista de ninjas usando a estrutura de dados LinkedList
+- **Objetivo:** Criar um sistema para gerenciar uma lista de ninjas usando LinkedList e seus métodos, além de ordená-las e criar um método para buscar um ninja.
+- **Principais aprendizados:** Ordenação de Collections, remoção com Iterator e métodos de referência.
+- **Veja a discussão completa e o processo de desenvolvimento na 🔗[PR #4](https://github.com/jotathedev/Java10x/pull/5).**
